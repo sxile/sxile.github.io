@@ -1,0 +1,29 @@
+body{
+	background-color:#F0FFFF;
+	font-family:Verdana,sans-serif;
+
+}
+
+#output{
+	width:200px;
+	height:100px;
+	border:solid 4px #AA0000;
+	padding:10px;
+
+}
+
+.button{
+	color:#FFFFFF;
+	background-color:#4545FF;
+	border:none;
+	padding:15px 32px;
+	font-size:1.5em;
+	font-family:'Papyrus',sans-serif;
+	border-radius:16px;
+	transition-duration:0.4s;
+	margin-bottom:20px;
+}
+.button:hover{
+	background-color:#D0D000;
+	color:#444444;
+}
